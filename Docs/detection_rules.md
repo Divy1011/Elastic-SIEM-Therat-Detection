@@ -112,30 +112,7 @@ at catching reconnaissance activity in real time.
 
 ---
 
-**How to add both to GitHub:**
-
-1. Click **Add file** > **Create new file**
-2. Filename: `docs/attack_commands.md`
-3. Paste Document 1
-4. Commit message: `Add attack commands documentation`
-
-Then:
-1. Click **Add file** > **Create new file**
-2. Filename: `docs/detection_rules.md`
-3. Paste Document 2
-4. Commit message: `Add detection rules documentation`
-
----
-
-**Your final GitHub structure:**
-```
-elastic-siem-threat-detection-lab/
-    README.md
-    screenshots/
-        kibana_dashboard.png
-        elastic_alerts.png
-        kali_attacks.png
-    docs/
         incident_report.md
         attack_commands.md
+
         detection_rules.md
