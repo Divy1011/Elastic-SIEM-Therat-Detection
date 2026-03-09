@@ -111,8 +111,3 @@ at catching reconnaissance activity in real time.
 ```
 
 ---
-
-        incident_report.md
-        attack_commands.md
-
-        detection_rules.md
